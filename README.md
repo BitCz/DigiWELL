@@ -22,13 +22,6 @@ DigiWELL is a project funded by The Johannes Amos Comenius Programme (P JAC). It
 └── LICENSE             # License information
 ```
 
-## Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v14 or above)
-- [Git](https://git-scm.com/)
-
 ## Contact
 
 For more information visit our [website](https://www.digiwell-opjak.cz/en/home/).
